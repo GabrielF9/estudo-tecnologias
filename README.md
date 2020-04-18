@@ -19,4 +19,4 @@ Vamoooooo!
   - [ ] React Native
   - [ ] Flutter
   - [x] Python
-  - [ ] Node
+  - [x] Node
