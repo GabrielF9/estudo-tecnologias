@@ -14,4 +14,9 @@ Vamoooooo!
 
 ## Timeline
 
-Assim que for concluindo vou adicionando os apps, links, artigos e datas aqui!
+1- Bin2Dec
+  - [ ] React
+  - [ ] React Native
+  - [ ] Flutter
+  - [x] Python
+  - [ ] Node
